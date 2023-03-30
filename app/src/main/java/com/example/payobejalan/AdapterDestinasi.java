@@ -50,7 +50,6 @@ public class AdapterDestinasi extends RecyclerView.Adapter<AdapterDestinasi.View
             tvNama = itemView.findViewById(R.id.tv_nama);
             tvAlamat = itemView.findViewById(R.id.tv_alamat);
             tvJam = itemView.findViewById(R.id.tv_jam);
-
         }
     }
 }
